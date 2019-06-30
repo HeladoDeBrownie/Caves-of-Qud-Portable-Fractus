@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <objects>
-    <object Name="Potted Fractus" Inherits="Plant">
+    <object Name="Portable Fractus" Inherits="Plant">
         <part Name="Physics" Takeable="true" Weight="5"/>
         <part Name="Render" DisplayName="&amp;Gp&amp;go&amp;Gtt&amp;ged &amp;Gfract&amp;gus plant&amp;y" RenderString="157" ColorString="&amp;g" Tile="portable-fractus.png" DetailColor="y" Occluding="true"/>
         <part Name="Description" Short="A particularly prickly portable potted peano patch."/>
