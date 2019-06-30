@@ -2,7 +2,7 @@
 <objects>
     <object Name="Potted Fractus" Inherits="Plant">
         <part Name="Physics" Takeable="true" Weight="5"/>
-        <part Name="Render" DisplayName="potted fractus" RenderString="157" ColorString="&amp;g" Tile="Items/sw_plastic_tree.bmp" DetailColor="y" Occluding="true"/>
+        <part Name="Render" DisplayName="&amp;Gp&amp;go&amp;Gtt&amp;ged &amp;Gfract&amp;gus plant&amp;y" RenderString="157" ColorString="&amp;g" Tile="Items/sw_plastic_tree.bmp" DetailColor="y" Occluding="true"/>
         <part Name="Description" Short="A particularly prickly portable potted peano patch."/>
         <part Name="Thorns"/>
     </object>
