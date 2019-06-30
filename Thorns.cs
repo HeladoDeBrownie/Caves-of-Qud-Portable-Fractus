@@ -4,14 +4,14 @@ using XRL.Rules;
 namespace XRL.World.Parts
 {
 	[Serializable]
-	public class Thorns : IPart
+	public class helado_Thorns : IPart
 	{
 		//
 		// Constructors
 		//
-		public Thorns ()
+		public helado_Thorns ()
 		{
-			base.Name = "Thorns";
+			base.Name = "helado_Thorns";
 		}
 
 		//
